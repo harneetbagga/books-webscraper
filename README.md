@@ -1,5 +1,13 @@
 # 📚 Books to Scrape – End‑to‑End Web Scraping & Data Engineering Project
 
+## Highlights
+- End-to-end Python web scraping and data ingestion pipeline
+- Full pagination handling across multi-page listings
+- Deep detail-page scraping with metadata enrichment
+- Data cleaning, validation, and quality checks
+- Structured logging and fault-tolerant execution
+- CSV and DuckDB storage for analytics-ready datasets
+  
 ## Overview
 
 This project demonstrates a **production‑style web scraping pipeline** built using Python. It scrapes book data from the public practice website **[https://books.toscrape.com](https://books.toscrape.com)**, performs deep pagination and detail‑page scraping, cleans and validates the data, and stores it in **CSV files and a DuckDB database**.
